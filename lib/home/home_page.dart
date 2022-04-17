@@ -12,7 +12,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: Colors.deepPurple,
         title: Text(
-          "Yetoman",
+          "YeToman",
           style: TextStyle(fontFamily: "Pacifico"),
         ),
       ),
